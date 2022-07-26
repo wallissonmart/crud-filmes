@@ -1,5 +1,5 @@
-<h1 align="left">CRUD FILMES</h1>
-<p align="left">Aplicação para cadastrar, editar, excluir e visualizar filmes.</p>
+<h1 align="left">CRUD Filmes</h1>
+<p align="left">Aplicação para cadastrar, editar, excluir e visualizar filmes</p>
 
 <p align="left"> •
  <a href="#status">Status</a> •

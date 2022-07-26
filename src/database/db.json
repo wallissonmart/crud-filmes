@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "nome": "Gente Grande",
+      "descricao": "A morte do treinador de basquete da infância de velhos amigos reúne a turma no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade.",
+      "data_lancamento": "24/09/2010",
+      "avaliacao": "5"
+    },
+    {
+      "nome": "The Batman",
+      "descricao": "Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confiáveis, o vigilante solitário se estabelece como a personificação da vingança para a população.",
+      "data_lancamento": "03/03/2022",
+      "avaliacao": "4",
+      "id": 2
+    },
+    {
+      "nome": "Garfield",
+      "descricao": "Garfield, o gato roliço, preguiçoso e que adora uma lasanha, vive a vida do seu jeito. Ele adora irritar Jon e provocar o pacato Odie.",
+      "data_lancamento": "02/09/2009",
+      "avaliacao": "4",
+      "id": 3
+    }
+  ]
+}

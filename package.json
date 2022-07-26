@@ -1,0 +1,28 @@
+{
+  "name": "crud_filmes",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "json-server": "json-server --watch src/database/db.json --host 127.0.0.1 --port 3002",
+    "dev": "concurrently --kill-others \"npm start\" \"npm run json-server\"",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.3.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.0",
+    "concurrently": "^7.3.0",
+    "vite": "^3.0.0"
+  }
+}

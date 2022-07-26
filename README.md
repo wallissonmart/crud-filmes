@@ -36,7 +36,7 @@ Para rodar em sua máquina, siga os seguintes passos:
 - [Styled Components](https://styled-components.com/docs)
 - [Vite](https://vitejs.dev/guide/)
 - [React Router](https://reactrouter.com/docs/en/v6/getting-started/overview)
-- [Json Server](https://github.com/typicode/json-server)
+- [JSON Server](https://github.com/typicode/json-server)
 
 <h1 align="left" id="autor">✍️ Autor</h1>
 <a href="https://github.com/wallissonmart">

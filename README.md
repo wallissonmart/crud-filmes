@@ -16,7 +16,8 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para acessar a aplicação bastar clicar no seguinte link: ---
+
+Para acessar a aplicação basta clicar no seguinte link: ---
 
 Para rodar em sua máquina, siga os seguintes passos:
 - git clone https://github.com/wallissonmart/crud-filmes.git
